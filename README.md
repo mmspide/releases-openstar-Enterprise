@@ -1,31 +1,31 @@
-# 关于openstar-Enterprise
-该版本是基于开源版 [openstar ](https://github.com/starjun/openstar) 开发的企业版。
+# About openstar-Enterprise
+This version is based on the open source version [openstar] (https://github.com/starjun/openstar) developed by the Enterprise Edition.
 
-openstar-Enterprise 是一个 **收费产品**
+openstar-Enterprise is a * * paid product**
 
-如果您暂时不考虑收费的产品，可以参考： **免费开源** 的版本 -----》  [openstar ](https://github.com/starjun/openstar)
+If you have any questions, please feel free to contact us. https://github.com/starjun/openstar)
 
 
 *****
-国内开源极其不易，请大家支持
+Open source in China is extremely difficult, please support
 
-github地址：https://github.com/op-sec-team/releases-openstar-Enterprise
+github address:https://github.com/op-sec-team/releases-openstar-Enterprise
 
-看云文档：https://www.kancloud.cn/openstar/install/1136671
-
-
-## 费用
-目前公测阶段免费使用一年（企业）；
-
-基础使用：个人免费（需要添加QQ进行域名备注），企业 1200/月  10000/年
-
-技术服务：另议
-
-未经授权不可用于商业用途（为他人提供云/私有云防护等商业形式）
+Look at the cloud documentation:https://www.kancloud.cn/openstar/install/1136671
 
 
-## 其他
-关于功能、界面有好的建议可以反馈给我们，谢谢~
+## Fees
+The current beta phase of free use for one year(enterprise）；
+
+You can use the following file names for the home page
+
+Technical service ： separately
+
+Unauthorised use is not allowed for commercial purposes (Providing others with cloud/private cloud protection and other commercial forms）
+
+
+## Other
+About the function, the interface has a good suggestion can give us feedback, thank you~
 
 QQ号：2194788831
 
